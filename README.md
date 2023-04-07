@@ -1,6 +1,11 @@
-# uihackathon
+# Weather-Router (MetHack)
 
-The goal of the project is to create a travel plan and route based on weather conditions. 
+The goal of the project is to create a travel plan and route based on weather conditions. The project was for Midwest Big Data Hackathon event during 2017. 
+Team:
+Negin Sobhani
+Maryam Abdi
+Georgi Guzun
+Navid jadidoleslam
 
 The outputs are created but visualizations need some work to be done. 
 
